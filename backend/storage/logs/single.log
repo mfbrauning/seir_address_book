@@ -1,0 +1,17 @@
+2021-12-06 22:20:23 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-06 22:20:23 - INFO - "GET /static/style.css HTTP/1.1" 200 648
+2021-12-06 22:51:16 - INFO - "GET /contacts HTTP/1.1" 200 871
+2021-12-06 22:51:16 - INFO - "GET /contacts/2 HTTP/1.1" 200 283
+2021-12-06 22:51:16 - INFO - "GET /contacts/1 HTTP/1.1" 200 298
+2021-12-06 22:53:56 - ERROR - JSONDecodeError in /Users/franbrauning/.pyenv/versions/3.9.4/lib/python3.9/json/decoder.py on line 353
+2021-12-06 22:53:56 - ERROR - "POST /contacts HTTP/1.1" 500 1040413
+2021-12-06 22:54:27 - ERROR - "POST /contacts HTTP/1.1" 500 59
+2021-12-06 22:54:56 - ERROR - "POST /contacts HTTP/1.1" 500 59
+2021-12-06 22:54:56 - INFO - "POST /contacts HTTP/1.1" 200 280
+2021-12-06 22:54:56 - INFO - "GET /contacts/ HTTP/1.1" 200 1153
+2021-12-06 22:54:56 - INFO - "PUT /contacts/3 HTTP/1.1" 200 281
+2021-12-06 22:54:56 - INFO - "GET /contacts/ HTTP/1.1" 200 1144
+2021-12-06 22:54:56 - INFO - "GET /contacts/ HTTP/1.1" 200 1144
+2021-12-06 22:54:56 - INFO - "GET /contacts/ HTTP/1.1" 200 1144
+2021-12-06 22:54:56 - INFO - "DELETE /contacts/2 HTTP/1.1" 200 283
+2021-12-06 22:54:56 - INFO - "GET /contacts/ HTTP/1.1" 200 861
